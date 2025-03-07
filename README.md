@@ -33,7 +33,7 @@ STEP 5: Normalizing the data<BR>
 STEP 6: Splitting the data into test and train<BR>
 
 ##  PROGRAM:
-```
+```python
 from google.colab import files
 import pandas as pd
 import io
@@ -77,6 +77,7 @@ print(X_train)
 print("Length of X_train:",len(X_train))
 print(X_test)
 print("Length of X_test:",len(X_test))
+
 ```
 
 ## OUTPUT:
