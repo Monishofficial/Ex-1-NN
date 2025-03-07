@@ -82,25 +82,19 @@ print("Length of X_test:",len(X_test))
 
 ## OUTPUT:
 ### DATA HEAD 
-![image](https://github.com/Lavanyajoyce/Ex-1-NN/assets/118708024/b6421015-1968-410c-bea8-96e25b836dc3)
-### DATA CHECKING
-![image](https://github.com/Lavanyajoyce/Ex-1-NN/assets/118708024/bc61200c-c9c4-4069-ac66-5298d81c9af6)
+![Screenshot 2025-03-07 113129](https://github.com/user-attachments/assets/64ff6661-36d6-4691-9c0a-3a969b26313b)
+### DATA TAIL
+![Screenshot 2025-03-07 113159](https://github.com/user-attachments/assets/0e2677f1-d184-4127-a61e-1d796eacbeb6)
+### DATA COLUMNS
+![Screenshot 2025-03-07 113401](https://github.com/user-attachments/assets/e39ab7c7-5ce0-4939-a991-34adc9027bb0)
 ### NULL VALUES
-![image](https://github.com/Lavanyajoyce/Ex-1-NN/assets/118708024/31c7b09e-6cf8-4fd4-b50e-70c594c7f68a)
-### X VALUE
-![image](https://github.com/R-Udayakumar/Ex-1-NN/assets/118708024/52125358-7674-445f-ab3c-3c14b6ffdecc)
-### Y VALUE
-![image](https://github.com/R-Udayakumar/Ex-1-NN/assets/118708024/1b782e02-58f2-4c18-a36e-af887571ac76)
-### OUTLIERS
-![image](https://github.com/R-Udayakumar/Ex-1-NN/assets/118708024/875b36a6-7c2f-440e-b903-68a64c1e0d9f)
-### DROP
-![image](https://github.com/R-Udayakumar/Ex-1-NN/assets/118708024/5b33f2eb-0eb4-499c-a68e-a9de4dfeeb0a)
+![Screenshot 2025-03-07 113410](https://github.com/user-attachments/assets/0f626212-d9a9-45c4-9b6b-efad825be39f)
 ### NORMALIZATION
-![image](https://github.com/R-Udayakumar/Ex-1-NN/assets/118708024/b86e4907-7082-46d5-ac42-d60ead60433e)
+![Screenshot 2025-03-07 114429](https://github.com/user-attachments/assets/ae2ccf47-13b3-4eaa-be73-512474859aeb)
 ### DATA SPLITING
-![image](https://github.com/R-Udayakumar/Ex-1-NN/assets/118708024/f8c2564a-9335-4e2a-af63-c47a856079f4)
+![Screenshot 2025-03-07 114615](https://github.com/user-attachments/assets/6bb240db-f68c-4415-921b-bd702ca94a28)
 ### TRAINING & TEST DATA 
-![image](https://github.com/R-Udayakumar/Ex-1-NN/assets/118708024/ec63aef9-fb98-4190-85a0-1aefc9b7fed6)
+![Screenshot 2025-03-07 114728](https://github.com/user-attachments/assets/78bf72ca-1118-4a6e-844c-72694f6405ae)
 
 ## RESULT:
 Thus, Implementation of Data Preprocessing is done in python  using a data set downloaded from Kaggle.
